@@ -13,8 +13,8 @@ camera.position.z = 5;
 
 var render = function(){
 	requestAnimationFrame(render);
-	cube.rotation.x += 0.1;
-	cube.rotation.y += 0.1;
+	cube.rotation.x += 0.02;
+	cube.rotation.y += 0.03;
 	renderer.render(scene,camera);
 }
 
