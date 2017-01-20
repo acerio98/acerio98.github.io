@@ -117,10 +117,26 @@ function init(){
 	currentIndex = 0;
 
 	var url = window.location.href;
-	// switch(url){
-	// 	case ""
-	// }
-	// selectedIndex = currentIndex = inx;
+	console.log(url);
+	var inx = 0;
+	switch(url){
+		case "riopelle.me/work":
+			inx = 1;
+			break;
+		case "riopelle.me/projects":
+			inx = 2;
+			break;
+		case "riopelle.me/resume":
+			inx = 3;
+			break;
+		case "riopelle.me/contact":
+			inx = 4;
+			break;
+		default:
+			inx = 0;
+			break;
+	}
+	selectedIndex = currentIndex = inx;
 
 	// projector = new THREE.Projector();
 	// document.addEventListener('mousemove',onDocumentMouseMove,false);
