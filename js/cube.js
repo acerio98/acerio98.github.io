@@ -120,16 +120,16 @@ function init(){
 	console.log(url);
 	var inx = 0;
 	switch(url){
-		case "riopelle.me/work":
+		case "http://riopelle.me/work":
 			inx = 1;
 			break;
-		case "riopelle.me/projects":
+		case "http://riopelle.me/projects":
 			inx = 2;
 			break;
-		case "riopelle.me/resume":
+		case "http://riopelle.me/resume":
 			inx = 3;
 			break;
-		case "riopelle.me/contact":
+		case "http://riopelle.me/contact":
 			inx = 4;
 			break;
 		default:
