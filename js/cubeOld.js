@@ -45,7 +45,7 @@ render();
 
 var label = document.createElement('div');
 label.style.position = 'absolute';
-label.style.color = 'black';
+label.style.color = 'white';
 label.style.width="100%";
 label.innerHTML = "Home";
 label.style.textAlign = 'center';
