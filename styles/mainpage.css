@@ -11,6 +11,7 @@ html, body {
 	font-size:30pt;
 	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", "Helvetica Neue", Helvetica;
 	color:white;
+	/*text-shadow: 0px 2px 10px #000000;*/
 }
 
 .canvas{
@@ -35,9 +36,59 @@ html, body {
 	width:120px;
 	
 	float:left;
+
+	-moz-box-shadow:    0px 0px 20px 0px #000;
+	-webkit-box-shadow: 0px 0px 20px 0px #000;
+	box-shadow:         0px 0px 20px 0px #000;
 }
 #content{
 	overflow:hidden;
 	height:100vh;
 	background-color: #525252;
+	text-align: center;
+
+}
+
+#text-area-1{
+	padding-top:20px;
+	width:90%;
+	margin: 0 auto;
+
+
+}
+
+#paragraph-1{
+	width:48%;
+	height:100%;
+	float:left;
+	padding-left:10px;
+	background-color: white;
+	color:black;
+	text-align: left;
+	font-size:16pt;
+	font-family: "HelveticaNeue", "Helvetica Neue", "Helvetica Neue", Helvetica;
+	-moz-box-shadow:    3px 3px 5px 6px #444;
+	-webkit-box-shadow: 3px 3px 5px 6px #444;
+	box-shadow:         3px 3px 5px 6px #444;
+}
+
+#paragraph-1 em{
+		font-family: "HelveticaNeue-LightItalic", "Helvetica Neue Light Italic", "Helvetica Neue", Helvetica;
+}
+
+
+#paragraph-2{
+	overflow:hidden;
+	float:right;
+	padding-left:10px;
+	width:48%;
+	height:100%;
+	background-color: white;
+	color:black;
+	text-align: left;
+	font-size:16pt;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
+	-moz-box-shadow:    3px 3px 5px 6px #444;
+	-webkit-box-shadow: 3px 3px 5px 6px #444;
+	box-shadow:         3px 3px 5px 6px #444;
 }

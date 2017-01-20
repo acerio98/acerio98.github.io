@@ -103,6 +103,8 @@ function init(){
 		label.style.msUserSelect = "none";
 		label.style.userSelect = "none";
 
+		label.style.textShadow = "0px 2px 4px #000000";
+
 		container.appendChild(label);
 
 		scenes.push(scene);
@@ -117,7 +119,6 @@ function init(){
 	currentIndex = 0;
 
 	var url = window.location.href;
-	console.log(url);
 	var inx = 0;
 	switch(url){
 		case "http://riopelle.me/work":
@@ -192,7 +193,6 @@ var render = function(){
 	for(var i = 0; i <numCubes; i++){
 
 		if(i!=selectedIndex){
-			console.log(scenes[i].children[0].rotation.x,scenes[i].children[0].rotation.y);
 			if((scenes[i].children[0].rotation.x % 2*Math.PI)>0.5){
 				scenes[i].children[0].rotation.x += Math.PI/16;
 			}
