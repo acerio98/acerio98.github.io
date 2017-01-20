@@ -6,21 +6,21 @@ html, body {
 }
 
 #name{
-	margin-top:5px;
+	margin-top:30px;
 	text-align: center;
-	font-size:12pt;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
-	color:red;
+	font-size:30pt;
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", "Helvetica Neue", Helvetica;
+	color:white;
 }
 
 .canvas{
 	background-color: #000;
     width: 100px;
     height: 100px;
-    margin: 10px;
-    padding: 0px;
+    /*margin: 10px;*/
+    /*padding: 0px;*/
     position: relative;
-    top: 10px;
+    /*top: 10px; */
     left: 10px;
 }
 
@@ -29,4 +29,15 @@ html, body {
 	left:0px;
 	width:100%;
 	height:100%;
+}
+
+#navbar{
+	width:120px;
+	
+	float:left;
+}
+#content{
+	overflow:hidden;
+	height:100vh;
+	background-color: #525252;
 }

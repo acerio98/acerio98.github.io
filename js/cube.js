@@ -11,6 +11,34 @@ var projector;
 var growCubeIndices;
 var shrinkCubeIndices;
 
+$(document).ready(function(){
+    //Register another event which call the script on window resize..
+    $(window).resize(function()
+    {
+        //Call this function on resize
+        adjustSpacing();
+    });
+    //Call this function on first load
+    adjustSpacing();
+});
+
+function adjustSpacing()
+{
+    //Calculate window height
+    var h = $(window).height();
+    //Calculate height of 1st link
+    var linkH = $(".canvas").first().height();
+    //Get total number of links
+    var totalLinks = $(".canvas").length;
+    //Calculate top padding and bottom padding for each link
+    var space = (h - (totalLinks * linkH)) / (totalLinks*2 + 1);
+    $(".canvas").each(function(){
+        //Apply padding on each link
+        $(this).css("padding-top", space);
+        $(this).css("padding-bottom", space);
+    });    
+}
+
 function init(){
 	texts = ["Home", "Work", "Projects", "Resume", "Contact"]
 
@@ -87,6 +115,12 @@ function init(){
 
 	selectedIndex = 0;
 	currentIndex = 0;
+
+	var url = window.location.href;
+	// switch(url){
+	// 	case ""
+	// }
+	// selectedIndex = currentIndex = inx;
 
 	// projector = new THREE.Projector();
 	// document.addEventListener('mousemove',onDocumentMouseMove,false);
