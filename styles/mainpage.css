@@ -44,9 +44,23 @@ html, body {
 #content{
 	overflow:hidden;
 	height:100vh;
-	background-color: #525252;
+	
 	text-align: center;
 
+}
+
+#name-area{
+	width:100%;
+	margin-top:-30px;
+	background-color: #525252;
+	height:90px;
+	padding-top:40px;
+}
+
+#other-area{
+	width:100%;
+	background-color: #ffffff;
+	height:100%;
 }
 
 #text-area-1{
@@ -58,7 +72,7 @@ html, body {
 }
 
 #paragraph-1{
-	width:48%;
+	width:34%;
 	height:100%;
 	float:left;
 	padding-left:10px;
@@ -67,9 +81,9 @@ html, body {
 	text-align: left;
 	font-size:16pt;
 	font-family: "HelveticaNeue", "Helvetica Neue", "Helvetica Neue", Helvetica;
-	-moz-box-shadow:    3px 3px 5px 6px #444;
+	/*-moz-box-shadow:    3px 3px 5px 6px #444;
 	-webkit-box-shadow: 3px 3px 5px 6px #444;
-	box-shadow:         3px 3px 5px 6px #444;
+	box-shadow:         3px 3px 5px 6px #444;*/
 }
 
 #paragraph-1 em{
@@ -81,14 +95,20 @@ html, body {
 	overflow:hidden;
 	float:right;
 	padding-left:10px;
-	width:48%;
+	width:62%;
 	height:100%;
 	background-color: white;
 	color:black;
 	text-align: left;
 	font-size:16pt;
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
-	-moz-box-shadow:    3px 3px 5px 6px #444;
+/*	-moz-box-shadow:    3px 3px 5px 6px #444;
 	-webkit-box-shadow: 3px 3px 5px 6px #444;
-	box-shadow:         3px 3px 5px 6px #444;
+	box-shadow:         3px 3px 5px 6px #444;*/
+}
+
+#home-pic{
+	padding-top:25px;
+	width:100%;
+	margin: 0 auto;
 }
