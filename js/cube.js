@@ -40,7 +40,7 @@ function adjustSpacing()
 }
 
 function init(){
-	texts = ["Home", "Work", "Projects", "Resume", "Contact"]
+	texts = ["Home", "About", "Projects", "Resume", "Contact"]
 
 	var color1 = new THREE.Color("rgb(244,42,1)");
 	var color2 = new THREE.Color("rgb(247,120,1)");
@@ -121,7 +121,7 @@ function init(){
 	var url = window.location.href;
 	var inx = 0;
 	switch(url){
-		case "http://riopelle.me/work":
+		case "http://riopelle.me/about":
 			inx = 1;
 			break;
 		case "http://riopelle.me/projects":
