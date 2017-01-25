@@ -153,8 +153,9 @@ html, body {
 
 .proj{
 	width:90%;
-	height:100%;
+	height:400px;
 	margin: 0 auto;
+	margin-top:30px;
 	-moz-box-shadow:    3px 3px 5px 6px #888;
 	-webkit-box-shadow: 3px 3px 5px 6px #888;
 	box-shadow:         3px 3px 5px 6px #888;
@@ -163,7 +164,7 @@ html, body {
 }
 
 .proj-title{
-	height:100%;
+	
 	text-align: left;
 	font-size:30pt;
 	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", "Helvetica Neue", Helvetica;
@@ -184,11 +185,118 @@ html, body {
 	height:100%;
 	float:right;
 	font-size:20pt;
+	text-align: left;
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
 }
 
-#myfridge-pic{
+.content-pic{
 	padding:15px;
 	width:100%;
 	margin: 0 auto;
 }
+
+/*=======================*/
+
+#link-area{
+	margin-top:20px;
+	margin-left:20px;
+	text-align: left;
+	font-size:20pt;
+	width:100%;
+
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", "Helvetica Neue", Helvetica;
+}
+
+#work-area{
+	margin-top:40px;
+}
+
+.title{
+	margin-left:20px;
+	margin-bottom:20px;
+	text-align: left;
+	font-size:20pt;
+	width:100%;
+	font-family: "HelveticaNeue-Italic", "Helvetica Neue Italic", "Helvetica Neue", Helvetica;
+}
+
+.item{
+	width:90%;
+	height:400px;
+	margin: 0 auto;
+	margin-bottom:30px;
+	-moz-box-shadow:    3px 3px 5px 6px #888;
+	-webkit-box-shadow: 3px 3px 5px 6px #888;
+	box-shadow:         3px 3px 5px 6px #888;
+	border-radius:25px;
+	padding:20px;
+}
+
+.item-title{
+	margin-top:0;
+	text-align: left;
+	font-size:25pt;
+	width:100%;
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", "Helvetica Neue", Helvetica;
+}
+
+.item-content{
+	height:100%;
+}
+
+.item-pic{
+	width:30%;
+	height:80%;
+	float:left;
+	border-style: solid;
+	border-width:5px;
+	border-color: black;
+	border-radius:5px;
+	margin-top:20px;
+}
+
+.item-text{
+	width:65%;
+	height:100%;
+	float:right;
+	font-size:20pt;
+	text-align: left;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
+}
+
+.item-content-pic{
+	position: relative;
+  	top: 50%;
+  	width:80%;
+  	margin: 0 auto;
+  	transform: translateY(-50%);
+}
+
+/*=======================*/
+
+.contact-bubble{
+	-moz-box-shadow:    3px 3px 5px 6px #888;
+	-webkit-box-shadow: 3px 3px 5px 6px #888;
+	box-shadow:         3px 3px 5px 6px #888;
+	border-radius:50%;
+	width:200px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.contact-pic{
+
+}
+
+.contact-title{
+	margin-top:40px;
+	padding-top:30%;
+	font-size:20pt;
+	text-align: center;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
+}
+
+/*=======================*/
+
