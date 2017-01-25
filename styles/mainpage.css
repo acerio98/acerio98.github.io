@@ -1,7 +1,7 @@
 html, body {
 	margin: 0;
 	padding: 0;
-	background-color: black;
+	background-color: white;
 	width:100%;
 }
 
@@ -58,15 +58,16 @@ html, body {
 	background-color: #525252;
 	height:90px;
 	padding-top:40px;
+	-moz-box-shadow:    inset 0px 0px 100px 0px #222;
+	-webkit-box-shadow: inset 0px 0px 100px 0px #222;
+	box-shadow:         inset 0px 0px 100px 0px #222;
 }
 
 #other-area{
 	width:100%;
 	background-color: #ffffff;
 	height:100%;
-	-moz-box-shadow:    0px 0px 100px 0px #222;
-	-webkit-box-shadow: 0px 0px 100px 0px #222;
-	box-shadow:         0px 0px 100px 0px #222;
+
 }
 
 #text-area-1{
@@ -78,7 +79,7 @@ html, body {
 }
 
 #paragraph-1{
-	width:34%;
+	width:40%;
 	height:100%;
 	float:left;
 	padding-left:10px;
@@ -93,7 +94,7 @@ html, body {
 }
 
 #paragraph-1 em{
-		font-family: "HelveticaNeue-LightItalic", "Helvetica Neue Light Italic", "Helvetica Neue", Helvetica;
+	font-family: "HelveticaNeue-LightItalic", "Helvetica Neue Light Italic", "Helvetica Neue", Helvetica;
 }
 
 
@@ -101,12 +102,12 @@ html, body {
 	overflow:hidden;
 	float:right;
 	padding-left:10px;
-	width:62%;
+	width:56%;
 	height:100%;
 	background-color: white;
 	color:black;
 	text-align: left;
-	font-size:16pt;
+	font-size:20pt;
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
 /*	-moz-box-shadow:    3px 3px 5px 6px #444;
 	-webkit-box-shadow: 3px 3px 5px 6px #444;
@@ -148,4 +149,46 @@ html, body {
 	padding-bottom:60px;
 	margin: auto;
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
+}
+
+.proj{
+	width:90%;
+	height:100%;
+	margin: 0 auto;
+	-moz-box-shadow:    3px 3px 5px 6px #888;
+	-webkit-box-shadow: 3px 3px 5px 6px #888;
+	box-shadow:         3px 3px 5px 6px #888;
+	border-radius:25px;
+	padding:20px;
+}
+
+.proj-title{
+	height:100%;
+	text-align: left;
+	font-size:30pt;
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", "Helvetica Neue", Helvetica;
+}
+
+.proj-content{
+	height:100%;
+}
+
+.proj-pic{
+	width:40%;
+	height:100%;
+	float:left;
+}
+
+.proj-text{
+	width:55%;
+	height:100%;
+	float:right;
+	font-size:20pt;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
+}
+
+#myfridge-pic{
+	padding:15px;
+	width:100%;
+	margin: 0 auto;
 }
