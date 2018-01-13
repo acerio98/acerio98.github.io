@@ -53,8 +53,6 @@ html, body {
 	height:100%;
 	
 	text-align: center;
-	
-	padding-left:120px
 }
 
 #name-area{
@@ -92,16 +90,11 @@ html, body {
 	color:black;
 	text-align: left;
 	font-size:16pt;
-	font-family: "HelveticaNeue", "Helvetica Neue", "Helvetica Neue", Helvetica;
+	font-family: Vitro, "Vitro";
 	/*-moz-box-shadow:    3px 3px 5px 6px #444;
 	-webkit-box-shadow: 3px 3px 5px 6px #444;
 	box-shadow:         3px 3px 5px 6px #444;*/
 }
-
-#paragraph-1 em{
-	font-family: "HelveticaNeue-LightItalic", "Helvetica Neue Light Italic", "Helvetica Neue", Helvetica;
-}
-
 
 #paragraph-2{
 	overflow:hidden;
@@ -113,7 +106,7 @@ html, body {
 	color:black;
 	text-align: left;
 	font-size:20pt;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
+	font-family: Vitro, "Vitro";
 /*	-moz-box-shadow:    3px 3px 5px 6px #444;
 	-webkit-box-shadow: 3px 3px 5px 6px #444;
 	box-shadow:         3px 3px 5px 6px #444;*/
