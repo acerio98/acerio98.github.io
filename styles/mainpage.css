@@ -5,11 +5,16 @@ html, body {
 	width:100%;
 }
 
+@font-face{
+	font-family: Vitro;
+	src: url('fonts/vitro_extrabold.otf');
+}
+
 #name{
 	margin-top:30px;
 	text-align: center;
 	font-size:30pt;
-	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", "Helvetica Neue", Helvetica;
+	font-family: Vitro;
 	color:white;
 	/*text-shadow: 0px 2px 10px #000000;*/
 }
