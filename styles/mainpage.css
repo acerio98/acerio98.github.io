@@ -7,7 +7,7 @@ html, body {
 
 @font-face{
 	font-family: Vitro;
-	src: url('fonts/vitro_extrabold.otf');
+	src: url('vitro_extrabold.otf');
 }
 
 a:link {
