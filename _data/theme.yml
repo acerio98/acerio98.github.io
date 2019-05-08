@@ -16,6 +16,7 @@ t:
   newer: "Newer"
   older: "Older"
   email: "Email"
+  cv: "CV"
   subscribe: "Subscribe"
   read_more: "Read More"
   posts: "Posts"
@@ -35,4 +36,6 @@ t:
 
 navigation_pages:
   - about.md
+  - research.md
+  - games.md
   - cv.md
