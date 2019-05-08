@@ -1,6 +1,6 @@
 ---
 title: "Games"
-layout: default
+layout: about
 ---
 
 These are games.
