@@ -9,7 +9,7 @@ html, body {
 }
 
 @font-face{
-	font-family: TT Commons;
+	font-family: TTCommonsDemiBold;
 	src: url('fonts/TTCommonsDemiBold.ttf');
 }
 
@@ -90,7 +90,7 @@ a:visited:hover {
 	text-align: left;
 	padding-left: 40px;
 	padding-right:40px;
-	font-family: Vitro, "Vitro";
+	font-family: TTCommonsDemiBold, "TTCommonsDemiBold";
 	color: #4b4b4b;
 }
 
