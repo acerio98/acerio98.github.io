@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: "Austin Riopelle"
-email: "ariopell@umich.edu"
-description: "My persona website"
+email: "a.c.riopelle@me.com"
+description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
