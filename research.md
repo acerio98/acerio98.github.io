@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: research
+layout: default
 ---
 
 This is research.
