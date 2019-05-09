@@ -5,24 +5,45 @@ layout: games
 
 These are games.  
 @row  
-![Sunset Island](https://riopelle.me/assets/pics/sunset.png)
+![Equinox](https://riopelle.me/assets/pics/equinox.png)
 @column
-# Sunset Island
-A survival horror game I made in October 2018. Look around the town, collect resources, and watch out for the spiders! Bad things will happen at night if you are not careful.  
-
-You will need to be fast and chop down trees and pick up rocks before the sunsets. But if night falls, make good use of the tools you have collected to protect yourself and survive as long as possible. You can do it!
+# Equinox: Security Breach
+Equinox is a 2v2 assymetric stealth-action shooter I created on a 4-person team over two months in Feb-April 2019 as our final project for the EECS 494 course at UMich.
+@row  
+![Syzygy](https://riopelle.me/assets/pics/syzygy.png)
+@column
+# Syzygy
+A single-player 3D platformer I made solo in March 2019 for a game jam.
+@row  
+![Penguin Papa](https://riopelle.me/assets/pics/peng.png)
+@column
+# Penguin Papa
+A single-player racing game I made solo in November 2018 for a game jam.
 @row  
 ![Sunset Island](https://riopelle.me/assets/pics/sunset.png)
 @column
 # Sunset Island
-A survival horror game I made in October 2018. Look around the town, collect resources, and watch out for the spiders! Bad things will happen at night if you are not careful.  
+A survival horror game I made with a 6-person group in October 2018 for a game jam. Look around the town, collect resources, and watch out for the spiders! Bad things will happen at night if you are not careful.  
 
 You will need to be fast and chop down trees and pick up rocks before the sunsets. But if night falls, make good use of the tools you have collected to protect yourself and survive as long as possible. You can do it!
 @row  
-![Sunset Island](https://riopelle.me/assets/pics/sunset.png)
+![Ascension](https://riopelle.me/assets/pics/ascension.png)
 @column
-# Sunset Island
-A survival horror game I made in October 2018. Look around the town, collect resources, and watch out for the spiders! Bad things will happen at night if you are not careful.  
-
-You will need to be fast and chop down trees and pick up rocks before the sunsets. But if night falls, make good use of the tools you have collected to protect yourself and survive as long as possible. You can do it!
+# The Ascension of Dr. Ulrich Stegmann
+A single player 2.5D action platformer game I made with a 4-person group in March 2018 for a game jam.
+@row  
+![ZONE](https://riopelle.me/assets/pics/zone.png)
+@column
+# ZONE
+A single-player 3D puzzle/relaxation game I made solo in January 2018 for a game jam.
+@row  
+![Cheap Shop](https://riopelle.me/assets/pics/cheapshop.png)
+@column
+# Cheap Shop
+A multiplayer action game I made with a 4-person group November 2017 for a game jam.
+@row  
+![Skyline](https://riopelle.me/assets/pics/skyline.png)
+@column
+# Skyline
+A prototype for a 3D mobile life-simulation game I made in Unity on and off in 2015-17.
 @row  
