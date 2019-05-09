@@ -3,9 +3,9 @@ title: "Research"
 layout: about
 ---
 
-![CrowdMask](https://riopelle.me/assets/pics/system_diagram_users.jpg)
+# CrowdMask  
 
-# CrowdMask
+![CrowdMask](https://riopelle.me/assets/pics/system_diagram_users.jpg)
 
 I am currently working on a project called "CrowdMask" (or "ObSecure") with Walter Lasecki in the Crowds and Machines (CROMA) Lab at the University of Michigan. We are researching a system to allow crowd workers to answer questions about an images taken by visually-impaired users without being exposed to private content that may be in those images.  
 
