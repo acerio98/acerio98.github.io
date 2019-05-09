@@ -4,7 +4,7 @@ layout: games
 ---
 
 These are games.
-
+@row
 ![Sunset Island](https://riopelle.me/assets/pics/sunset.png)
 @column
 # Sunset Island
