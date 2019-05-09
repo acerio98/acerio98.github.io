@@ -8,11 +8,11 @@ layout: default
   <div class="inner">
     <div class="entry-wrap">
       <div class="entry-content">
-        <div class="container" style="left:-15px;">
+        <div class="container" style="margin-left:-50px;">
 
           {% assign rows = content | split:"@row" %}
           {% for row in rows %}
-            <div class="row" id="row-{{ forloop.index }}">
+            <div class="row" id="row-{{ forloop.index }}" style="margin-bottom:30px;">
 
               {% assign columns = row | split:"@column" %}
               {% for column in columns %}
