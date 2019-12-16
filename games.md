@@ -35,9 +35,10 @@ A single-player racing game I made solo in November 2018 for a game jam.
 ![Sunset Island](https://riopelle.me/assets/pics/sunset.png)
 @column
 # Sunset Island
-A survival horror game I made with a 6-person group in October 2018 for a game jam. Look around the town, collect resources, and watch out for the spiders! Bad things will happen at night if you are not careful.  
+A survival horror game I made with a 6-person group in October 2018 for a game jam. Look around the town, collect resources, and watch out for the spiders!
+#Bad things will happen at night if you are not careful.  
 
-You will need to be fast and chop down trees and pick up rocks before the sunsets. But if night falls, make good use of the tools you have collected to protect yourself and survive as long as possible. You can do it!
+#You will need to be fast and chop down trees and pick up rocks before the sunsets. But if night falls, make good use of the tools you have collected to protect yourself and survive as long as possible. You can do it!
 
 [Download Link](https://wsoft.itch.io/sunset-island)
 @row  
