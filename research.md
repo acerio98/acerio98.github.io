@@ -13,7 +13,7 @@ The approach combines the speed of off-the-shelf object-detection systems such a
 
 Once this is done, the masked image can be passed on to another crowd worker in a second pipeline who can then answer the question using the image without being exposed to any unnecessary private content.
 
-# Project introduction
+# Project Rodin
 
 ![Rodin](https://riopelle.me/assets/pics/sword.png)
 
