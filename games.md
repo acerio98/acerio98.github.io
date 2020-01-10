@@ -9,26 +9,26 @@ I enjoy game development and have experience in multiple disciplines, including 
 ![RSVP](https://riopelle.me/assets/pics/rsvp.png)
 @column
 # RSVP
-RSVP is a single-player escape-the-room 3D puzzle game I created in a solo project for a October 2019 game jam. I designed the game as well as creating all 3D assets and textures and programming each of the interactions.
+RSVP is a single-player escape-the-room 3D puzzle game I created in a solo project for an October 2019 game jam. I designed the game as well as creating all 3D assets and textures and programming each of the interactions.
 
 [Download Link](https://ariopelle.itch.io/rsvp)
 @row  
 ![Equinox](https://riopelle.me/assets/pics/equinox.png)
 @column
 # Equinox: Security Breach
-Equinox is a 2v2 assymetric stealth-action shooter I created on a 4-person team over two months in Feb-April 2019 as our final project for the EECS 494 course at UMich. My role was to help design core objectives and abilities for the game as well as creating all 2D and 3D visual assets, UI design, programming certain abilities, and intensive QA testing.
+Equinox is a 2v2 assymetric stealth-action shooter I created on a 4-person team over two months in Feb-April 2019 as our final project for the EECS 494 course at UMich. My role was to help design core objectives and abilities for the game as well as creating all 2D and 3D visual assets, doing a little shader scripting, performing UI design, programming certain abilities, and intensive QA testing.
 @row  
 ![Syzygy](https://riopelle.me/assets/pics/syzygy.png)
 @column
 # Syzygy
-A single-player 3D platformer I made solo in March 2019 for a game jam. I designed each of the levels as well as creating all 3D models and programming user interactions and enemy AI.
+A single-player 3D platformer I made solo in March 2019 for a game jam. I designed each of the levels as well as making all 3D models and programming user interactions and enemy AI.
 
 [Download Link](https://wsoft.itch.io/syzygy)
 @row  
 ![Penguin Papa](https://riopelle.me/assets/pics/peng.png)
 @column
 # Penguin Papa
-A single-player racing game I made solo in November 2018 for a game jam. I designed the main level, modeled the environment and characters, and wrote the code for user input and actions.
+A single-player racing game I made solo in November 2018 for a game jam. I designed the main level, modeled the environment and characters, and wrote the code for user input and interactions.
 
 [Download Link](https://wsoft.itch.io/penguin-papa)
 @row  
@@ -42,7 +42,7 @@ A survival horror game I made with a 6-person group in October 2018 for a game j
 ![Ascension](https://riopelle.me/assets/pics/ascension.png)
 @column
 # The Ascension of Dr. Ulrich Stegmann
-A single player 2.5D action platformer game I made with a 4-person group in March 2018 for a game jam. My role was a 3D artist creating each of the 3D models and their textures.
+A single player 2.5D action platformer game I made with a 4-person group in March 2018 for a game jam. My role was as a 3D artist creating each of the 3D models and their textures.
 
 [Download Link](https://wsoft.itch.io/the-ascension-of-dr-ulrich-stegmann)
 @row  
