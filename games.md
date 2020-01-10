@@ -3,63 +3,63 @@ title: "Games"
 layout: games
 ---
 
-I enjoy game development and have experience in multiple disciplines, including programming, 3D and 2D art, and even a little bit of music creation. However, I am most specialized in coding in Unity using C# and 3D modeling in Blender. Nearly all of the 3D models and textures in the games below were created by me. Recently I have also begun to dabble in shader programming, and hope to explore more in this area.  
+I enjoy game development and have experience in multiple disciplines, including programming, 3D and 2D art, and even (a little bit of) music creation. However, I am most specialized in coding in Unity using C# and 3D modeling in Blender. Nearly all of the 3D models and textures in the games below were created by me. Recently I have also begun to dabble in shader programming, and hope to explore more in this area.  
 
 @row  
 ![RSVP](https://riopelle.me/assets/pics/rsvp.png)
 @column
 # RSVP
-RSVP is a single-player escape-the-room 3D puzzle game I created in a solo project for a October 2019 game jam.
+RSVP is a single-player escape-the-room 3D puzzle game I created in a solo project for a October 2019 game jam. I designed the game as well as creating all 3D assets and textures and programming each of the interactions.
 
 [Download Link](https://ariopelle.itch.io/rsvp)
 @row  
 ![Equinox](https://riopelle.me/assets/pics/equinox.png)
 @column
 # Equinox: Security Breach
-Equinox is a 2v2 assymetric stealth-action shooter I created on a 4-person team over two months in Feb-April 2019 as our final project for the EECS 494 course at UMich.
+Equinox is a 2v2 assymetric stealth-action shooter I created on a 4-person team over two months in Feb-April 2019 as our final project for the EECS 494 course at UMich. My role was to help design core objectives and abilities for the game as well as creating all 2D and 3D visual assets, UI design, programming certain abilities, and intensive QA testing.
 @row  
 ![Syzygy](https://riopelle.me/assets/pics/syzygy.png)
 @column
 # Syzygy
-A single-player 3D platformer I made solo in March 2019 for a game jam.
+A single-player 3D platformer I made solo in March 2019 for a game jam. I designed each of the levels as well as creating all 3D models and programming user interactions and enemy AI.
 
 [Download Link](https://wsoft.itch.io/syzygy)
 @row  
 ![Penguin Papa](https://riopelle.me/assets/pics/peng.png)
 @column
 # Penguin Papa
-A single-player racing game I made solo in November 2018 for a game jam.
+A single-player racing game I made solo in November 2018 for a game jam. I designed the main level, modeled the environment and characters, and wrote the code for user input and actions.
 
 [Download Link](https://wsoft.itch.io/penguin-papa)
 @row  
 ![Sunset Island](https://riopelle.me/assets/pics/sunset.png)
 @column
 # Sunset Island
-A survival horror game I made with a 6-person group in October 2018 for a game jam. Look around the town, collect resources, and watch out for the spiders!
+A survival horror game I made with a 6-person group in October 2018 for a game jam. Look around the town, collect resources, and watch out for the spiders! On the team I worked as the main 3D asset artist, creating both the 3D models themselves, their 2D textures, and the animations for the NPC and enemy characters.
 
 [Download Link](https://wsoft.itch.io/sunset-island)
 @row  
 ![Ascension](https://riopelle.me/assets/pics/ascension.png)
 @column
 # The Ascension of Dr. Ulrich Stegmann
-A single player 2.5D action platformer game I made with a 4-person group in March 2018 for a game jam.
+A single player 2.5D action platformer game I made with a 4-person group in March 2018 for a game jam. My role was a 3D artist creating each of the 3D models and their textures.
 
 [Download Link](https://wsoft.itch.io/the-ascension-of-dr-ulrich-stegmann)
 @row  
 ![ZONE](https://riopelle.me/assets/pics/zone.png)
 @column
 # ZONE
-A single-player 3D puzzle/relaxation game I made solo in January 2018 for a game jam.
+A single-player 3D puzzle/relaxation game I made solo in January 2018 for the 2018 Global Game Jam. Working alone I designed each of the different levels, created their 3D assets and composed them in Unity, programmed all of the game interactions, and even composed the game's music.
 
 [Download Link](https://ariopelle.itch.io/zone)
 @row  
 ![Cheap Shop](https://riopelle.me/assets/pics/cheapshop.png)
 @column
 # Cheap Shop
-A multiplayer action game I made with a 4-person group November 2017 for a game jam.
+A multiplayer action game I made with a 4-person group November 2017 for a game jam. I worked as the main 3D modeler and texture artist, as well as the level designer and gameplay programmer.
 @row  
 ![Skyline](https://riopelle.me/assets/pics/skyline.png)
 @column
 # Skyline
-A prototype for a 3D mobile life-simulation game I made in Unity on and off in 2015-17.
+A prototype for a 3D mobile life-simulation game I made in Unity on and off in 2015-17. My work included 3D modeling, texturing, animation, and basic gameplay programming.
 @row  
