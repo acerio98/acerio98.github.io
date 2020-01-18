@@ -21,4 +21,4 @@ Recently I completed a project called Project Rodin advised by Austin Yarger at 
 
 I trained the model on a set of 100 sword models taken from pretraining, with pre-training of the encoder and decoder on ShapeNet. The synthesis results were not perfect-looking, but seemed to validate the promise of this technique for generating meshes for games, if I had larger and better datasets to train on and get more realistic results.
 
-Many more details about this project can be found on a separate site where I kept a weekly blog throughout the project [here](https://riopelle.me/research/rodin.html).
+Many more details about this project can be found on a separate site where I kept a weekly blog throughout the project [here]({% link rodin.md %}).
