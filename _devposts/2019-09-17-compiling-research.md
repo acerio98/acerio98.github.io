@@ -1,6 +1,7 @@
 ---
 title: "Test post"
 layout: post
+description: This is what this post is about!
 
 # optional alternate title to replace page.title at the top of the page
 #alt_title: "Basically Basic"
