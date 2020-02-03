@@ -64,7 +64,12 @@ A single-player 3D puzzle/relaxation game I made solo in January 2018 for the 20
 ![Cheap Shop](https://riopelle.me/assets/pics/cheapshop.png)
 @column
 # Cheap Shop
-A multiplayer action game I made with a 4-person group November 2017 for a game jam. I worked as the main 3D modeler and texture artist, as well as the level designer and gameplay programmer.
+A multiplayer action game I made with a 4-person group in November 2017 for a game jam. I worked as the main 3D modeler and texture artist, as well as the level designer and gameplay programmer.
+@row
+![Royal Ruckus](https://riopelle.me/assets/pics/ruckus.png)
+@column
+# Royal Ruckus
+A single-player 2D side-scrolling stealth game I made with a 4-person group in October 2016 for my first game jam. I worked as the main 3D modeler and artist for the project.
 @row  
 ![Skyline](https://riopelle.me/assets/pics/skyline.png)
 @column
