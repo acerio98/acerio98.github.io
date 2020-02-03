@@ -6,6 +6,14 @@ layout: games
 I enjoy game development and have experience in multiple disciplines, including programming, 3D and 2D art, and even (a little bit of) music creation. However, I am most specialized in coding in Unity using C# and 3D modeling in Blender. Nearly all of the 3D models and textures in the games below were created by me. Recently I have also begun to dabble in shader programming, and hope to explore more in this area.  
 
 @row  
+![Glugoo](https://riopelle.me/assets/pics/glugoo.png)
+@column
+# Glugoo
+Glugoo is a single-player 3D action game I created as a solo team for the 2020 Global Game Jam. The player collects items around the world to gain power-ups and overcome various obstacles to reach the goal at the end. I created all aspects of the game myself including the 3D models, code, and level design.
+
+[Download Link](https://ariopelle.itch.io/glugoo)
+
+@row  
 ![RSVP](https://riopelle.me/assets/pics/rsvp.png)
 @column
 # RSVP
