@@ -25,7 +25,7 @@ Glugoo is a single-player 3D action game I created as a solo team for the 2020 G
 ![RSVP](https://riopelle.me/assets/pics/rsvp.png)
 @column
 # RSVP
-RSVP is a single-player escape-the-room 3D puzzle game I created in a solo project for an October 2019 game jam. I designed the game as well as creating all 3D assets and textures and programming each of the interactions.
+RSVP is a single-player 3D puzzle adventure game I created in a solo project for an October 2019 game jam. I designed the game as well as creating all 3D assets and textures and programming each of the interactions.
 
 [Download Link](https://ariopelle.itch.io/rsvp)
 @row  
