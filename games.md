@@ -3,7 +3,15 @@ title: "Games"
 layout: games
 ---
 
-I enjoy game development and have experience in multiple disciplines, including programming, 3D and 2D art, and even (a little bit of) music creation. However, I am most specialized in coding in Unity using C# and 3D modeling in Blender. Nearly all of the 3D models and textures in the games below were created by me. Recently I have also begun to dabble in shader programming, and hope to explore more in this area.  
+I enjoy game development and have experience in multiple disciplines, including programming, 3D and 2D art, and even (a little bit of) music creation. However, I am most interested and specialized in graphics programming and 3D modeling (using Blender). Nearly all of the 3D models and textures in the games below with the exception of Io were created by me.
+
+@row  
+![Glugoo](https://riopelle.me/assets/pics/io.png)
+@column
+# Io
+Io is a single-player 2D platformer I created as part of a 50+ person team run by the WolverineSoft game development student organization at the University of Michigan in the Winter 2020 semester. On the project I acted as a lead for the VFX pod where I managed sprints and contributed to development of particles and shaders for player, environment, enemy, and boss effects. The 3-month project ran from February through April and the final game was presented at the UMich EECS 494 Video Game Showcase and the Student Games Festival organized by [SGDA](https://sgda.io) as livestreamed on Twitch in early May. I kept a dev blog showcasing my progress over the semester which can be read [here]({% link rodin.md %}).
+
+[Download Link](https://wolverinesoft-studio.itch.io/io)
 
 @row  
 ![Glugoo](https://riopelle.me/assets/pics/glugoo.png)
